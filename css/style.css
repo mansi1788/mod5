@@ -231,7 +231,7 @@ body{
   /********** Large devices only **********/
   @media (min-width: 1200px) {
     .container .jumbotron {
-      background: url('../images/jumbotron_1200.jpg') no-repeat;
+      background: url('/jumbotron_1200.jpg') no-repeat;
       height: 675px;
     }
   }
@@ -259,7 +259,7 @@ body{
   @media (min-width: 768px) and (max-width: 991px) {
     /* Home Page */
     .container .jumbotron {
-      background: url('images/jumbotron_768.jpg') no-repeat;
+      background: url('jumbotron_768.jpg') no-repeat;
       height: 432px;
     }
     /* End Home Page */
